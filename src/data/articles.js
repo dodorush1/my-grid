@@ -6,7 +6,7 @@ const articles = [
     author: 'Анна Иванова',
     date: '12 марта 2026',
     tag: 'Основы',
-    image: 'https://picsum.photos/seed/react1/400/250'
+    image: 'https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400'
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const articles = [
     author: 'Пётр Смирнов',
     date: '18 марта 2026',
     tag: 'Хуки',
-    image: 'https://picsum.photos/seed/hooks2/400/250'
+    image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400'
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const articles = [
     author: 'Мария Кузнецова',
     date: '22 марта 2026',
     tag: 'Инструменты',
-    image: 'https://picsum.photos/seed/vite3/400/250'
+    image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400'
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const articles = [
     author: 'Иван Петров',
     date: '25 марта 2026',
     tag: 'Стили',
-    image: 'https://picsum.photos/seed/css4/400/250'
+    image: 'https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=400'
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const articles = [
     author: 'Ольга Сидорова',
     date: '30 марта 2026',
     tag: 'Вёрстка',
-    image: 'https://picsum.photos/seed/flex5/400/250'
+    image: 'https://images.unsplash.com/photo-1547658719-da2b51169166?w=400'
   },
   {
     id: 6,
@@ -51,7 +51,25 @@ const articles = [
     author: 'Дмитрий Волков',
     date: '2 апреля 2026',
     tag: 'Git',
-    image: 'https://picsum.photos/seed/git6/400/250'
+    image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400'
+  },  
+  {
+    id: 7,
+    title: 'Асинхронный JavaScript',
+    excerpt: 'Промисы, async/await и обработка ошибок — разбираем асинхронность по шагам.',
+    author: 'Сергей Морозов',
+    date: '5 апреля 2026',
+    tag: 'JavaScript',
+    image: 'https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?w=400'
+  },
+  {
+    id: 8,
+    title: 'Деплой на Vercel',
+    excerpt: 'Как за 5 минут опубликовать React-проект в интернете бесплатно.',
+    author: 'Екатерина Новикова',
+    date: '8 апреля 2026',
+    tag: 'Деплой',
+    image: 'https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=400'
   }
 ];
 

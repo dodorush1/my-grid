@@ -17,19 +17,14 @@
   color: #fff;
   font-size: 1.5rem;
 }
-
-.nav {
+.brand {
   display: flex;
-  gap: 1.5rem;
+  flex-direction: column;
+  gap: 0.25rem;
 }
 
-.link {
+.counter {
   color: #e0e7ff;
-  text-decoration: none;
-  font-size: 1rem;
-  transition: color 0.2s;
-}
-
-.link:hover {
-  color: #fff;
+  font-size: 0.85rem;
+  opacity: 0.9;
 }
